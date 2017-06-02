@@ -1,5 +1,4 @@
 jQuery.bootstrapFloatLabel = function () {
-  $("form .float-label label").addClass("hide-label");
 
   //Verifie si le place holder est vide
   $("form .float-label input").each(function () {
