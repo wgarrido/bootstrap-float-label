@@ -1,0 +1,29 @@
+.float-label .header-label{
+    position: absolute;
+    pointer-events: none;
+    top: -8px;
+    left: 10px;
+    background-color: #FFF;
+    padding: 0px 5px;
+    font-size: 11px;
+    visibility: visible;
+    opacity: 1;
+}
+.float-label label {
+    -webkit-transition: top 0.5s, left 0.5s, font 0.5s;
+    -moz-transition: top 0.5s, left 0.5s, font 0.5s;
+    -o-transition: top 0.5s, left 0.5s, font 0.5s;
+    -ms-transition: top 0.5s, left 0.5s, font 0.5s;
+    position: absolute;
+    left: 8px;
+    font-size: 13.2px;
+    top: 8px;
+    visibility: hidden;
+    opacity: 0;
+}
+.form-group.float-label{
+    margin-bottom: 20px;
+}
+.form-group{
+    position: relative;
+}
