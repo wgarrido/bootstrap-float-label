@@ -12,7 +12,6 @@ What things you need to install the software and how to install them
 ```
 Bootstrap 3
 Jquery
-
 ```
 
 ### Usage
