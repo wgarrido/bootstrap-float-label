@@ -1,9 +1,6 @@
-# Project Title
-
-Floating label for bootstrap 3
+# Floating label for bootstrap 3
 
 ![](https://media.giphy.com/media/3oKIPqWzkif1ppxGG4/giphy.gif)
-
 
 ### Prerequisites
 
